@@ -17,7 +17,7 @@ body{
 img{
     position:absolute;
     top:40vh;
-    left:30vw;
+    left:20vw;
     width: 60vw;
     height: 60vw;
 }
@@ -31,3 +31,4 @@ img{
     height:20vh;
 
 }
+
