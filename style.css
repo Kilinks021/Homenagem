@@ -20,6 +20,7 @@ img{
     left:20vw;
     width: 60vw;
     height: 60vw;
+    user-select:none;
 }
 .d{
     top:25vh;
@@ -30,6 +31,7 @@ img{
 }
 .texto{
     height:20vh;
+    font-size:3vw;
 }
 .msg{
     height:20vh;
@@ -38,6 +40,7 @@ img{
     height:20vh;
 
 }
+
 
 
 
