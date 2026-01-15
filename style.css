@@ -21,6 +21,13 @@ img{
     width: 60vw;
     height: 60vw;
 }
+.d{
+    top:25vh;
+}
+.l{
+    transition:0.5s;
+    top:50vh;
+}
 .texto{
     height:20vh;
 }
@@ -31,5 +38,6 @@ img{
     height:20vh;
 
 }
+
 
 
