@@ -37,12 +37,13 @@ img{
 }
 .msg{
     height:20vh;
-    display:none;
+    visibility:hidden;
 }
 .aviso{
     height:20vh;
 
 }
+
 
 
 
