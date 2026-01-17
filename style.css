@@ -26,6 +26,7 @@ img{
     max-height:400px;
 }
 .d{
+    transition:0.5s
     top:25vh;
 }
 .l{
@@ -49,6 +50,7 @@ img{
     height:20vh;
     color:yellow;
 }
+
 
 
 
